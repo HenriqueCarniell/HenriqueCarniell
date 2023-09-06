@@ -16,7 +16,7 @@
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](https://nodejs.org/en/)
 
 ### Databases
-[<img alt="NodeJS" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>]([https://mysql.org/en/](https://www.mysql.com/))
+[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/)
 
 ## 📈 Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueCarniell&theme=default)
